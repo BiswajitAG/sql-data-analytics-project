@@ -11,10 +11,8 @@ database efficiently.
 
 ## 🧩 Analytical Themes Covered
 
--   🔍 **Database Exploration** -- understand schema, table stats, and
-    relationships\
--   📈 **Measures & Metrics** -- compute KPIs and performance
-    indicators\
+-   🔍 **Database Exploration** -- understand schema, table stats, and relationships
+-   📈 **Measures & Metrics** -- compute KPIs and performance indicators
 -   ⏱️ **Time-Based Analysis** -- trends, growth rates, and period
     comparisons\
 -   ➕ **Cumulative Analytics** -- running totals, rolling averages, and
